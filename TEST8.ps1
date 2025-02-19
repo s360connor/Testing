@@ -1,0 +1,1 @@
+-NoProfile -ExecutionPolicy Unrestricted -Command iex (get-content "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\vcpkg\vcpkg-init.cmd\")#
